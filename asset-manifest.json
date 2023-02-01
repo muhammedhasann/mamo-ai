@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/mamo-ai/static/css/main.f350874a.css",
+    "main.js": "/mamo-ai/static/js/main.7090e510.js",
+    "static/js/787.fb771931.chunk.js": "/mamo-ai/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp2.png": "/mamo-ai/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/work3.png": "/mamo-ai/static/media/work3.8a049bffffd4d884bb60.png",
+    "static/media/work1.png": "/mamo-ai/static/media/work1.914cf38a48d650e4e37d.png",
+    "static/media/banner-bg.png": "/mamo-ai/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/logo.png": "/mamo-ai/static/media/logo.78bcfe865cca976046dd.png",
+    "static/media/work2.png": "/mamo-ai/static/media/work2.e248247d74082afc5e2a.png",
+    "static/media/header-img.svg": "/mamo-ai/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/mamo-ai/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/mamo-ai/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/mamo-ai/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/mamo-ai/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/mamo-ai/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/meter5.svg": "/mamo-ai/static/media/meter5.e7574af26628c8d8cc52d64e015eb898.svg",
+    "static/media/revicons.eot": "/mamo-ai/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/mamo-ai/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/mamo-ai/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter4.svg": "/mamo-ai/static/media/meter4.1ea4071dc4c69766db46c45ab6bb5dea.svg",
+    "static/media/logo.svg": "/mamo-ai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/meter7.svg": "/mamo-ai/static/media/meter7.27c7151ae26a4b76b99ac1186fa9bbbb.svg",
+    "static/media/meter8.svg": "/mamo-ai/static/media/meter8.c851cb6f7faf4d5f7b42157c95a7b216.svg",
+    "static/media/meter6.svg": "/mamo-ai/static/media/meter6.9b9c9fa6556369d39dd25116709d2243.svg",
+    "static/media/meter2.svg": "/mamo-ai/static/media/meter2.9455f2f2bd26c88b5bb39d584a085d3d.svg",
+    "static/media/meter1.svg": "/mamo-ai/static/media/meter1.026a62687ef705a39cfc755d7457859c.svg",
+    "static/media/meter3.svg": "/mamo-ai/static/media/meter3.081325c6f229605dce15142ddd948d6d.svg",
+    "static/media/nav-icon3.svg": "/mamo-ai/static/media/nav-icon3.dd890225e81ca839d4e145fa63fdf520.svg",
+    "index.html": "/mamo-ai/index.html",
+    "static/media/nav-icon1.svg": "/mamo-ai/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/mamo-ai/static/media/nav-icon2.9eeeb58fdf7ccbe62089f2982d46dcb7.svg",
+    "main.f350874a.css.map": "/mamo-ai/static/css/main.f350874a.css.map",
+    "main.7090e510.js.map": "/mamo-ai/static/js/main.7090e510.js.map",
+    "787.fb771931.chunk.js.map": "/mamo-ai/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f350874a.css",
+    "static/js/main.7090e510.js"
+  ]
+}

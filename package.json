@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://muhammedhasann.github.io",
-=======
-  "homepage": "http://muhammedhasann.github.io/",
->>>>>>> 1eadfe1 (white page problem)
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,

@@ -15,8 +15,8 @@ export const Projects = () => {
       title: "Personal Website & Portfolio",
       description: "React.js, Bootstrap, Animate.CSS",
       imgUrl: work3,
-      url: 'https://github.com/muhammedhasann',
-      website: 'https://github.com/muhammedhasann',
+      url: 'https://github.com/muhammedhasann/mamo-ai',
+      website: 'https://muhammedhasan.tech/',
 
     },
     {
